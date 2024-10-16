@@ -15,20 +15,30 @@ namespace University
             Duration D2 = new Duration(3600);
             Console.WriteLine( D2.getstring() );
 
+            Console.WriteLine("Duration 3 before decrement");
+
             Duration D3 = new Duration(666);
             Console.WriteLine(D3);
+            Console.WriteLine("Duration 3 after decrement");
+            D3--;
+            Console.WriteLine(D3.getstring());
 
-            if(D1.Equals(D2))
+            if (D1.Equals(D2))
             {
-                Console.WriteLine("equals");
+                Console.WriteLine("D1 equals D2");
             }
             else
             {
-                Console.WriteLine("notequals");
+                Console.WriteLine("D1 notequals D2");
             }
 
+            Console.WriteLine("Duration 4 before increment");
             Duration D4 = new Duration(5050);
             Console.WriteLine(D4.getstring());
+            Console.WriteLine("Duration 4 after increment");
+            D4++;
+            Console.WriteLine(D4.getstring());
+
 
             Console.WriteLine($"{D4} <= {D1} : {D4 <= D1}");
 

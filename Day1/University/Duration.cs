@@ -63,15 +63,22 @@ namespace University
         }
         public static Duration operator ++(Duration d1)
         {
-            Duration d3 = new Duration();
-            d3.Minutes = d1.Minutes ++;
-            return d3;
+            d1.Minutes ++;
+            return d1;
         }
         public static Duration operator --(Duration d1)
         {
-            Duration d3 = new Duration();
-            d3.Minutes = --d1.Minutes;
-            return d3;
+            d1.Minutes--;
+            if(d1.Minutes < 0)
+            {
+                d1.Minutes = 59;
+                d1.Hours--;
+                if(d1.Hours < 0)
+                {
+                    d1.Hours = 0;
+                }
+            }
+            return d1;
         }
         public static bool operator <=(Duration d1, Duration d2)
         {
