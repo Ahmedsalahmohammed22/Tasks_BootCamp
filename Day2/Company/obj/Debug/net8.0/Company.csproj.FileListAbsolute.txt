@@ -1,0 +1,14 @@
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\obj\Debug\net8.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\obj\Debug\net8.0\Company.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\obj\Debug\net8.0\Company.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\obj\Debug\net8.0\Company.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\bin\Debug\net8.0\Company.exe
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\bin\Debug\net8.0\Company.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\bin\Debug\net8.0\Company.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\bin\Debug\net8.0\Company.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\bin\Debug\net8.0\Company.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\obj\Debug\net8.0\Company.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\obj\Debug\net8.0\refint\Company.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\obj\Debug\net8.0\Company.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\obj\Debug\net8.0\Company.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Company\obj\Debug\net8.0\ref\Company.dll
