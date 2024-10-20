@@ -1,0 +1,15 @@
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\Event_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\Event_Delegate.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\Event_Delegate.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\Event_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\Event_Delegate.sourcelink.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\bin\Debug\net8.0\Event_Delegate.exe
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\bin\Debug\net8.0\Event_Delegate.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\bin\Debug\net8.0\Event_Delegate.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\bin\Debug\net8.0\Event_Delegate.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\bin\Debug\net8.0\Event_Delegate.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\Event_Delegate.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\refint\Event_Delegate.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\Event_Delegate.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\Event_Delegate.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Day5\Event_Delegate\obj\Debug\net8.0\ref\Event_Delegate.dll
