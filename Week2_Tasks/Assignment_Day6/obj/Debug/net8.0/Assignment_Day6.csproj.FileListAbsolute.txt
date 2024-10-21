@@ -1,0 +1,14 @@
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\obj\Debug\net8.0\Assignment_Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\obj\Debug\net8.0\Assignment_Day6.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\obj\Debug\net8.0\Assignment_Day6.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\obj\Debug\net8.0\Assignment_Day6.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\bin\Debug\net8.0\Assignment_Day6.exe
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\bin\Debug\net8.0\Assignment_Day6.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\bin\Debug\net8.0\Assignment_Day6.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\bin\Debug\net8.0\Assignment_Day6.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\bin\Debug\net8.0\Assignment_Day6.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\obj\Debug\net8.0\Assignment_Day6.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\obj\Debug\net8.0\refint\Assignment_Day6.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\obj\Debug\net8.0\Assignment_Day6.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\obj\Debug\net8.0\Assignment_Day6.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\Assignment_Day6\obj\Debug\net8.0\ref\Assignment_Day6.dll
