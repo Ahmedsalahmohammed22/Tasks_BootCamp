@@ -1,0 +1,15 @@
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\bin\Debug\net8.0\FTPClientProject.exe
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\bin\Debug\net8.0\FTPClientProject.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\bin\Debug\net8.0\FTPClientProject.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\bin\Debug\net8.0\FTPClientProject.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\bin\Debug\net8.0\FTPClientProject.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\FTPClientProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\FTPClientProject.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\FTPClientProject.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\FTPClientProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\FTPClientProject.sourcelink.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\FTPClientProject.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\refint\FTPClientProject.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\FTPClientProject.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\FTPClientProject.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week4_Tasks\Day6\FTPClientProject\obj\Debug\net8.0\ref\FTPClientProject.dll
