@@ -1,0 +1,15 @@
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\bin\Debug\net8.0\Day8_LINQ.exe
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\bin\Debug\net8.0\Day8_LINQ.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\bin\Debug\net8.0\Day8_LINQ.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\bin\Debug\net8.0\Day8_LINQ.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\bin\Debug\net8.0\Day8_LINQ.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\Day8_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\Day8_LINQ.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\Day8_LINQ.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\Day8_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\Day8_LINQ.sourcelink.json
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\Day8_LINQ.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\refint\Day8_LINQ.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\Day8_LINQ.pdb
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\Day8_LINQ.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week5_Tasks\Day8\Day8_LINQ\obj\Debug\net8.0\ref\Day8_LINQ.dll
