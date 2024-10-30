@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button2 = new Button();
-            button1 = new Button();
+            btn_delete = new Button();
+            btn_edit = new Button();
             label6 = new Label();
             cb_department = new ComboBox();
             label5 = new Label();
@@ -43,29 +43,29 @@
             label1 = new Label();
             SuspendLayout();
             // 
-            // button2
+            // btn_delete
             // 
-            button2.BackColor = Color.OliveDrab;
-            button2.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.Location = new Point(322, 321);
-            button2.Name = "button2";
-            button2.Size = new Size(128, 51);
-            button2.TabIndex = 25;
-            button2.Text = "Delete";
-            button2.UseVisualStyleBackColor = false;
-            button2.Click += button2_Click;
+            btn_delete.BackColor = Color.OliveDrab;
+            btn_delete.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_delete.Location = new Point(322, 321);
+            btn_delete.Name = "btn_delete";
+            btn_delete.Size = new Size(128, 51);
+            btn_delete.TabIndex = 25;
+            btn_delete.Text = "Delete";
+            btn_delete.UseVisualStyleBackColor = false;
+            btn_delete.Click += btn_delete_Click;
             // 
-            // button1
+            // btn_edit
             // 
-            button1.BackColor = SystemColors.Highlight;
-            button1.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(78, 321);
-            button1.Name = "button1";
-            button1.Size = new Size(128, 51);
-            button1.TabIndex = 24;
-            button1.Text = "Edit";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
+            btn_edit.BackColor = SystemColors.Highlight;
+            btn_edit.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_edit.Location = new Point(78, 321);
+            btn_edit.Name = "btn_edit";
+            btn_edit.Size = new Size(128, 51);
+            btn_edit.TabIndex = 24;
+            btn_edit.Text = "Edit";
+            btn_edit.UseVisualStyleBackColor = false;
+            btn_edit.Click += btn_edit_Click;
             // 
             // label6
             // 
@@ -165,8 +165,8 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(btn_delete);
+            Controls.Add(btn_edit);
             Controls.Add(label6);
             Controls.Add(cb_department);
             Controls.Add(label5);
@@ -187,8 +187,8 @@
 
         #endregion
 
-        private Button button2;
-        private Button button1;
+        private Button btn_delete;
+        private Button btn_edit;
         private Label label6;
         private ComboBox cb_department;
         private Label label5;

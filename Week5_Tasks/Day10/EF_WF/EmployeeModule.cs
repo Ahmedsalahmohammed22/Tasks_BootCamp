@@ -29,7 +29,7 @@ namespace EF_WF
             cb_department.ValueMember = "ID";
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btn_save_Click(object sender, EventArgs e)
         {
             Employee employee = new Employee()
             {
@@ -60,7 +60,7 @@ namespace EF_WF
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btn_cancel_Click(object sender, EventArgs e)
         {
             Clear();
         }

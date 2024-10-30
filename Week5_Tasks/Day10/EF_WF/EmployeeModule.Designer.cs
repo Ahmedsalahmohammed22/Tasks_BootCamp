@@ -39,8 +39,8 @@
             cb_department = new ComboBox();
             label5 = new Label();
             label6 = new Label();
-            button1 = new Button();
-            button2 = new Button();
+            btn_save = new Button();
+            btn_cancel = new Button();
             SuspendLayout();
             // 
             // label1
@@ -137,37 +137,37 @@
             label6.Text = "Add Employee";
             label6.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // button1
+            // btn_save
             // 
-            button1.BackColor = SystemColors.Highlight;
-            button1.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(96, 310);
-            button1.Name = "button1";
-            button1.Size = new Size(128, 51);
-            button1.TabIndex = 11;
-            button1.Text = "Save";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
+            btn_save.BackColor = SystemColors.Highlight;
+            btn_save.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_save.Location = new Point(96, 310);
+            btn_save.Name = "btn_save";
+            btn_save.Size = new Size(128, 51);
+            btn_save.TabIndex = 11;
+            btn_save.Text = "Save";
+            btn_save.UseVisualStyleBackColor = false;
+            btn_save.Click += btn_save_Click;
             // 
-            // button2
+            // btn_cancel
             // 
-            button2.BackColor = Color.Orange;
-            button2.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.Location = new Point(370, 310);
-            button2.Name = "button2";
-            button2.Size = new Size(128, 51);
-            button2.TabIndex = 12;
-            button2.Text = "Cancel";
-            button2.UseVisualStyleBackColor = false;
-            button2.Click += button2_Click;
+            btn_cancel.BackColor = Color.Orange;
+            btn_cancel.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_cancel.Location = new Point(370, 310);
+            btn_cancel.Name = "btn_cancel";
+            btn_cancel.Size = new Size(128, 51);
+            btn_cancel.TabIndex = 12;
+            btn_cancel.Text = "Cancel";
+            btn_cancel.UseVisualStyleBackColor = false;
+            btn_cancel.Click += btn_cancel_Click;
             // 
             // EmployeeModule
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(btn_cancel);
+            Controls.Add(btn_save);
             Controls.Add(label6);
             Controls.Add(cb_department);
             Controls.Add(label5);
@@ -199,7 +199,7 @@
         private ComboBox cb_department;
         private Label label5;
         private Label label6;
-        private Button button1;
-        private Button button2;
+        private Button btn_save;
+        private Button btn_cancel;
     }
 }

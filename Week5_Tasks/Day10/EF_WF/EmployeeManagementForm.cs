@@ -43,7 +43,7 @@ namespace EF_WF
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btn_edit_Click(object sender, EventArgs e)
         {
             var emp = companyDb.Employees.Where(e => e.Id == _employee.Id).SingleOrDefault();
             emp.Name = txt_name.Text;
@@ -59,7 +59,7 @@ namespace EF_WF
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btn_delete_Click(object sender, EventArgs e)
         {
             var emp = companyDb.Employees.Where(e => e.Id == _employee.Id).SingleOrDefault();
             companyDb.Employees.Remove(emp);
