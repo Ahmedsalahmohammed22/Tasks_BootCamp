@@ -42,7 +42,7 @@ namespace EF_WF
             };
             companyDb.Employees.Add(employee);
             companyDb.SaveChanges();
-            MessageBox.Show("Add Successfully");
+            MessageBox.Show("Add Successfully");    
             Clear();
             _form.LoadEmployee();
 
