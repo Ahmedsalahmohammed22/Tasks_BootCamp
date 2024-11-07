@@ -62,7 +62,7 @@ namespace NewsAPI_Task.Controllers
         [HttpDelete("{id}")]
         public IActionResult deleteNews(int id)
         {
-            News nw = nws.Where(n => n.Id==id).SingleOrDefault();
+            News nw = nws.Where(n => n.Id == id).FirstOrDefault();
             if (nw == null) return NotFound();
             nws.Remove(nw);
             return Ok(nws);
