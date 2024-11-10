@@ -8,7 +8,7 @@ public class Course
 static List<Course> crs = new List<Course>()
 {
    new  Course(){id=1,name="CS",duration=30,status=true},
-   new  Course(){id=2,name="SW",duration=45,status=true},
+   new  Course(){id=2,name="SW", duration=45,status=true},
    new  Course(){id=3,name="Network",duration=60,status=false},
 };
                         //////////JSON//////////
