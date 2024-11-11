@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HgaOpb/5/mNNrt58Uai+9BjYwFQIJ5xfSsosAZvHXNn2JAD8sLf8CxzMTlV6e/Cl7hpshJKp5759h1x731EsSg==",
+  "dgSpecHash": "NswcMXIXAwPkRuEkXDOotTcvHlqqv73GoZsta36GYq7au2NxEpm+Yn651n8U77a9+VkB6a79TozOuIbY9o7yYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Projects C#\\University\\Tasks_BootCamp\\Week6_Tasks\\Day3API\\OnlineShopping\\OnlineShopping.csproj",
+  "projectFilePath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Projects C#\\University\\Tasks_BootCamp\\Week7_Tasks\\OnlineShopping\\OnlineShopping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

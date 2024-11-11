@@ -18,9 +18,10 @@ namespace OnlineShopping.Models
         public int Amount { get; set; }
         [ForeignKey("catalog")]
         [JsonIgnore(Condition =JsonIgnoreCondition.WhenWritingNull)]
-        [AllowNull]
         public int? CatlId { get; set; }
-        public virtual Catalog catalog { get; set; }
+        public virtual Catalog? catalog { get; set; }
+        [MaybeNull]
+        public string PhotoPath { get; set; }
 
     }
 }

@@ -2,6 +2,8 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using OnlineShopping.Models;
+using OnlineShopping.Repository;
+using OnlineShopping.UnitOfWorks;
 
 namespace OnlineShopping
 {
@@ -18,6 +20,7 @@ namespace OnlineShopping
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddDbContext<OnShoppingContext>(op => op.UseLazyLoadingProxies().UseSqlServer(builder.Configuration.GetConnectionString("OnShopConn")));
+            builder.Services.AddScoped<UnitOfWork>();
 
             var app = builder.Build();
 

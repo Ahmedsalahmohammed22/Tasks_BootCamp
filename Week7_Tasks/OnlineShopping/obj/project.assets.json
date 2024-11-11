@@ -4592,11 +4592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Projects C#\\University\\Tasks_BootCamp\\Week6_Tasks\\Day3API\\OnlineShopping\\OnlineShopping.csproj",
+      "projectUniqueName": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Projects C#\\University\\Tasks_BootCamp\\Week7_Tasks\\OnlineShopping\\OnlineShopping.csproj",
       "projectName": "OnlineShopping",
-      "projectPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Projects C#\\University\\Tasks_BootCamp\\Week6_Tasks\\Day3API\\OnlineShopping\\OnlineShopping.csproj",
+      "projectPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Projects C#\\University\\Tasks_BootCamp\\Week7_Tasks\\OnlineShopping\\OnlineShopping.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Projects C#\\University\\Tasks_BootCamp\\Week6_Tasks\\Day3API\\OnlineShopping\\obj\\",
+      "outputPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Projects C#\\University\\Tasks_BootCamp\\Week7_Tasks\\OnlineShopping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

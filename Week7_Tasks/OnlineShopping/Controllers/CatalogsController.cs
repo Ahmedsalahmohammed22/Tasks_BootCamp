@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using OnlineShopping.DTOs.CatalogDTOs;
 using OnlineShopping.Models;
+using OnlineShopping.UnitOfWorks;
 
 namespace OnlineShopping.Controllers
 {
@@ -9,42 +10,25 @@ namespace OnlineShopping.Controllers
     [ApiController]
     public class CatalogsController : ControllerBase
     {
-        OnShoppingContext _context;
-        public CatalogsController(OnShoppingContext context)
+        UnitOfWork _unitOfWork;
+        public CatalogsController(UnitOfWork unitOfWork)
         {
-            _context = context;
+            _unitOfWork = unitOfWork;
         }
         [HttpGet]
         public IActionResult GetAll() 
         {
-            List<Catalog> catalogs = _context.Catalogs.ToList();
+            List<Catalog> catalogs = _unitOfWork.CatalogRepository.GetAll();
             if(catalogs.Count == 0) return NotFound();
-            List<CatalogDTO> catalogDTOs = new List<CatalogDTO>();
-            foreach(Catalog catalog in catalogs)
-            {
-                CatalogDTO catalogDTO = new CatalogDTO()
-                {
-                    Catalog_Id = catalog.Id,
-                    Catalog_name = catalog.Name,
-                    Catalog_description = catalog.Description,
-                    Productsname = catalog.Products.Select(p => p.Name).ToList(),
-                };
-                catalogDTOs.Add(catalogDTO);
-            }
+            List<CatalogDTO> catalogDTOs = _unitOfWork.CatalogFunRepos.ConvertListOfCatalogssToDTOs(catalogs);
             return Ok(catalogDTOs);
         }
         [HttpGet("{id}")]
         public IActionResult GetCatalog(int id)
         {
-            Catalog catalog = _context.Catalogs.Where(c => c.Id == id).SingleOrDefault();
+            Catalog catalog = _unitOfWork.CatalogRepository.Get(id);
             if(catalog == null) return NotFound();
-            CatalogDTO catalogDTO = new CatalogDTO()
-            {
-                Catalog_Id = catalog.Id,
-                Catalog_name = catalog.Name,
-                Catalog_description = catalog.Description,
-                Productsname = catalog.Products.Select(p => p.Name).ToList()
-            };
+            CatalogDTO catalogDTO = _unitOfWork.CatalogFunRepos.ConvertToCatalogDTO(catalog);
             return Ok(catalogDTO);
         }
         [HttpPost]
@@ -61,8 +45,8 @@ namespace OnlineShopping.Controllers
 
             if (TryValidateModel(catalog))
             {
-                _context.Catalogs.Add(catalog);
-                _context.SaveChanges();
+                _unitOfWork.CatalogRepository.Add(catalog);
+                _unitOfWork.Save();
                 CatalogDTO catalogDTO = new CatalogDTO()
                 {
                     Catalog_Id = catalog.Id,
