@@ -288,3 +288,8 @@ C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week7_Task
 C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week7_Tasks\OnlineShopping\obj\Debug\net8.0\OnlineShopping.pdb
 C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week7_Tasks\OnlineShopping\obj\Debug\net8.0\OnlineShopping.genruntimeconfig.cache
 C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week7_Tasks\OnlineShopping\obj\Debug\net8.0\ref\OnlineShopping.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week7_Tasks\OnlineShopping\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week7_Tasks\OnlineShopping\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week7_Tasks\OnlineShopping\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week7_Tasks\OnlineShopping\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ahmed\OneDrive\Desktop\Projects C#\University\Tasks_BootCamp\Week7_Tasks\OnlineShopping\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
